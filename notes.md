@@ -8,3 +8,5 @@
 ##ensime
 - [cheat-sheet](http://ensime.org/editors/emacs/cheat_sheet/)
 
+##magit
+- [cheat-sheet](http://daemianmack.com/magit-cheatsheet.html)
